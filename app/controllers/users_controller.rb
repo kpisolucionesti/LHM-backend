@@ -5,7 +5,7 @@ class UsersController < ApplicationController
     end
 
     def show
-        @user = User.find_by(code: params[:code])
+        @user = User.find(params[:id])
         render json: ::UserRepresenter.new(@user),status: :ok
     end
 
@@ -15,6 +15,6 @@ class UsersController < ApplicationController
     end
 
     def set_user
-        @user = User.find_by(code: params[:code])
+        @user = User.find(params[:id])
     end
 end

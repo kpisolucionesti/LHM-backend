@@ -3302,7 +3302,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -4220,8 +4220,8 @@ data=[
         "classInvoice": "A",
         "invoice": 4029,
         "tasa": 1,
-        "price": "",
-        "fee": "",
+        "price": 0,
+        "fee": 0,
         "balance": "46,87"
     },
     {
@@ -4271,7 +4271,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -4288,7 +4288,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -4339,7 +4339,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -6804,7 +6804,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -6821,7 +6821,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -6838,7 +6838,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -6855,7 +6855,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -6872,7 +6872,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -7110,7 +7110,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -7144,7 +7144,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -7161,7 +7161,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -7229,7 +7229,7 @@ data=[
         "classInvoice": "",
         "invoice": 149867,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -7535,7 +7535,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -7552,7 +7552,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -7569,7 +7569,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -7586,7 +7586,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -7603,7 +7603,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -7620,7 +7620,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -7637,7 +7637,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -7654,7 +7654,7 @@ data=[
         "classInvoice": "",
         "invoice": 278686,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -7824,7 +7824,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -7841,7 +7841,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -7943,7 +7943,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -7994,7 +7994,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 8216
     },
@@ -8045,7 +8045,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 8216
     },
@@ -16579,8 +16579,8 @@ data=[
         "classInvoice": "A",
         "invoice": 2574,
         "tasa": 1,
-        "price": "",
-        "fee": "",
+        "price": 0,
+        "fee": 0,
         "balance": "107,6"
     },
     {
@@ -27442,7 +27442,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": "1,5"
     },
@@ -29227,7 +29227,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -29244,7 +29244,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -29312,7 +29312,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -31148,7 +31148,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -35755,8 +35755,8 @@ data=[
         "classInvoice": "A",
         "invoice": 5528,
         "tasa": 1,
-        "price": "",
-        "fee": "",
+        "price": 0,
+        "fee": 0,
         "balance": "33620,06"
     },
     {
@@ -39869,7 +39869,7 @@ data=[
         "classInvoice": "",
         "invoice": 294718,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -39886,7 +39886,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -39903,7 +39903,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -39920,7 +39920,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -43116,7 +43116,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -43133,7 +43133,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -43150,7 +43150,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -43167,7 +43167,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -43201,7 +43201,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -43677,7 +43677,7 @@ data=[
         "classInvoice": "",
         "invoice": 149867,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -44017,7 +44017,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -44357,7 +44357,7 @@ data=[
         "classInvoice": "",
         "invoice": 292682,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -45734,7 +45734,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -45751,7 +45751,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -45989,8 +45989,8 @@ data=[
         "classInvoice": "A",
         "invoice": 4182,
         "tasa": 1,
-        "price": "",
-        "fee": "",
+        "price": 0,
+        "fee": 0,
         "balance": "14,82"
     },
     {
@@ -48573,7 +48573,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -48590,7 +48590,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -48607,7 +48607,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -50528,7 +50528,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -50579,7 +50579,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": "0,01"
     },
@@ -50596,7 +50596,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": "0,01"
     },
@@ -50664,7 +50664,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": "15,53"
     },
@@ -52925,7 +52925,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -52959,7 +52959,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -52976,7 +52976,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -52993,7 +52993,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -53010,7 +53010,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -53027,7 +53027,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -53044,7 +53044,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -53061,7 +53061,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -53078,7 +53078,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -53095,7 +53095,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -53112,7 +53112,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -53129,7 +53129,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -53146,7 +53146,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -53163,7 +53163,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -53180,7 +53180,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -53197,7 +53197,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -53214,7 +53214,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -53231,7 +53231,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -53248,7 +53248,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -53265,7 +53265,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -53282,7 +53282,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -53299,7 +53299,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -53316,7 +53316,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -53333,7 +53333,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -53350,7 +53350,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -53367,7 +53367,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -53384,7 +53384,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -53401,7 +53401,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -53418,7 +53418,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -53435,7 +53435,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -53452,7 +53452,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -53469,7 +53469,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -53486,7 +53486,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -53503,7 +53503,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -53520,7 +53520,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -53537,7 +53537,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -53554,7 +53554,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -53571,7 +53571,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -53588,7 +53588,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -53605,7 +53605,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -53622,7 +53622,7 @@ data=[
         "classInvoice": "",
         "invoice": 149867,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -53724,7 +53724,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -53741,7 +53741,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -54013,7 +54013,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -54030,7 +54030,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -54047,7 +54047,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -55679,7 +55679,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -55696,7 +55696,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -55713,7 +55713,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -55730,7 +55730,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -55747,7 +55747,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -55764,7 +55764,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -55781,7 +55781,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -55798,7 +55798,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -55815,7 +55815,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -55832,7 +55832,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -55849,7 +55849,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -55866,7 +55866,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -55883,7 +55883,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -55900,7 +55900,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -55917,7 +55917,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -55934,7 +55934,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -55951,7 +55951,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -55968,7 +55968,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -55985,7 +55985,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -56002,7 +56002,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -56019,7 +56019,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -56036,7 +56036,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -56053,7 +56053,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -56070,7 +56070,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -56087,7 +56087,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -56104,7 +56104,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -56121,7 +56121,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -56138,7 +56138,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -56155,7 +56155,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -56172,7 +56172,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -56189,7 +56189,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -56206,7 +56206,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -56223,7 +56223,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -56240,7 +56240,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -56257,7 +56257,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -56274,7 +56274,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -56291,7 +56291,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -56308,7 +56308,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -56325,7 +56325,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -56342,7 +56342,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -56359,7 +56359,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -56376,7 +56376,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -56393,7 +56393,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -56410,7 +56410,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -56427,7 +56427,7 @@ data=[
         "classInvoice": "",
         "invoice": 292682,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -56444,7 +56444,7 @@ data=[
         "classInvoice": "",
         "invoice": 293246,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -56461,7 +56461,7 @@ data=[
         "classInvoice": "",
         "invoice": 149867,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -56478,7 +56478,7 @@ data=[
         "classInvoice": "",
         "invoice": 278686,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -56818,7 +56818,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -56886,7 +56886,7 @@ data=[
         "classInvoice": "",
         "invoice": 294718,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -56903,7 +56903,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -56920,7 +56920,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -57753,7 +57753,7 @@ data=[
         "classInvoice": "",
         "invoice": 292682,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -57804,7 +57804,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": "14810,8"
     },
@@ -59317,7 +59317,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -59368,7 +59368,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 9120
     },
@@ -59385,7 +59385,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 9120
     },
@@ -60439,7 +60439,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -60456,7 +60456,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -60507,7 +60507,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -60575,7 +60575,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 9120
     },
@@ -60694,7 +60694,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 27360
     },
@@ -60711,7 +60711,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 27360
     },
@@ -62972,7 +62972,7 @@ data=[
         "classInvoice": "",
         "invoice": 292682,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -62989,7 +62989,7 @@ data=[
         "classInvoice": "",
         "invoice": 149867,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -64434,7 +64434,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -70571,7 +70571,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -70588,7 +70588,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -70724,7 +70724,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 35140
     },
@@ -70775,7 +70775,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 35140
     },
@@ -75824,7 +75824,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -75909,7 +75909,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -75926,7 +75926,7 @@ data=[
         "classInvoice": "",
         "invoice": 149867,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -75943,7 +75943,7 @@ data=[
         "classInvoice": "",
         "invoice": 110982,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -75960,7 +75960,7 @@ data=[
         "classInvoice": "",
         "invoice": 145739,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -75977,7 +75977,7 @@ data=[
         "classInvoice": "",
         "invoice": 105412,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -75994,7 +75994,7 @@ data=[
         "classInvoice": "",
         "invoice": 130447,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -76011,7 +76011,7 @@ data=[
         "classInvoice": "",
         "invoice": 131307,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -76028,7 +76028,7 @@ data=[
         "classInvoice": "",
         "invoice": 128257,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -76045,7 +76045,7 @@ data=[
         "classInvoice": "",
         "invoice": 128258,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -76062,7 +76062,7 @@ data=[
         "classInvoice": "",
         "invoice": 140640,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -76079,7 +76079,7 @@ data=[
         "classInvoice": "",
         "invoice": 109161,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -76113,7 +76113,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -76130,7 +76130,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -76385,7 +76385,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": "24391,44"
     },
@@ -76402,7 +76402,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": "24391,44"
     },
@@ -76470,7 +76470,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": "29843,44"
     },
@@ -76487,7 +76487,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": "29843,44"
     },
@@ -95085,7 +95085,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -97822,7 +97822,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 9120
     },
@@ -97839,7 +97839,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 9120
     },
@@ -100100,8 +100100,8 @@ data=[
         "classInvoice": "",
         "invoice": 303670,
         "tasa": 1,
-        "price": "",
-        "fee": "",
+        "price": 0,
+        "fee": 0,
         "balance": "388276,04"
     },
     {
@@ -100865,7 +100865,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -100916,7 +100916,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -100933,7 +100933,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -101171,7 +101171,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -101188,7 +101188,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -101205,7 +101205,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -101222,7 +101222,7 @@ data=[
         "classInvoice": "",
         "invoice": 292682,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -101256,7 +101256,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -101273,7 +101273,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -101290,7 +101290,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -101307,7 +101307,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -104078,7 +104078,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -104282,7 +104282,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -104316,7 +104316,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -104333,7 +104333,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -104384,7 +104384,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 9120
     },
@@ -108906,7 +108906,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -108923,7 +108923,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -108940,7 +108940,7 @@ data=[
         "classInvoice": "",
         "invoice": 254690,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -108974,7 +108974,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -108991,7 +108991,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -113513,7 +113513,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -113666,7 +113666,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -115910,7 +115910,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -115927,7 +115927,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -116301,7 +116301,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -116318,7 +116318,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -116335,7 +116335,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -116352,7 +116352,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -116386,7 +116386,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -116454,7 +116454,7 @@ data=[
         "classInvoice": "",
         "invoice": 293246,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -120143,7 +120143,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -120177,7 +120177,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -124206,7 +124206,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -124240,7 +124240,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -124257,7 +124257,7 @@ data=[
         "classInvoice": "",
         "invoice": 0,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": 0
     },
@@ -125957,7 +125957,7 @@ data=[
         "classInvoice": "",
         "invoice": 262631,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": "191685,98"
     },
@@ -128592,7 +128592,7 @@ data=[
         "classInvoice": "",
         "invoice": 275820,
         "tasa": 1,
-        "price": "",
+        "price": 0,
         "fee": 0,
         "balance": "760515,39"
     },
@@ -129499,10 +129499,23 @@ data=[
     }
 ]
 
+UserId.destroy_all
+user=[{
+    "id": 1,
+    "username": "jhosbelis",
+    "password": "Akira2812*",
+    "email": "jhosbelis@gmail.com",
+    "user_id": 103
+}]
+
 usuarios.each do |i|
     User.create(i)
 end
 
 data.each do |i|
     Payment.create(i)
+end
+
+user.each do |i|
+    UserId.create(i)
 end
