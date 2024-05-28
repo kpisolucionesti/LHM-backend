@@ -6,4 +6,5 @@ class UserIdRepresenter < Representable::Decorator
     property :password
     property :email
     property :user_id
+    property :authentication
 end
