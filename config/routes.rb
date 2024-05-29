@@ -1,5 +1,6 @@
 Rails.application.routes.draw do
   get '/payments/:code', to: 'payments#show'
+  get '/users/:code', to: 'users#show'
 
   resources :users
   resources :payments

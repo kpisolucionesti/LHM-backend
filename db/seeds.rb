@@ -129499,23 +129499,10 @@ data=[
     }
 ]
 
-UserId.destroy_all
-user=[{
-    "id": 1,
-    "username": "jhosbelis",
-    "password": "Akira2812*",
-    "email": "jhosbelis@gmail.com",
-    "user_id": 103
-}]
-
 usuarios.each do |i|
     User.create(i)
 end
 
 data.each do |i|
     Payment.create(i)
-end
-
-user.each do |i|
-    UserId.create(i)
 end
